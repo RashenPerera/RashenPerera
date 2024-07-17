@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, Frontend Developing**
 
-- 🧑‍🎓I'm an undergraduate at [University of Kelaniya](University of Kelaniya)
+- 🧑‍🎓I'm an undergraduate at University of Kelaniya
 
 - 💬 Ask me about **Arduino, Web development, OOP**
 
