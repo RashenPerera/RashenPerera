@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashenperera&label=Profile%20views&color=0e75b6&style=flat" alt="rashenperera" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Frontend Developing**
+- 🌱 I’m currently learning **Embedded Systems, Frontend Developing**
 
 - 🧑‍🎓I'm an undergraduate at University of Kelaniya
 
